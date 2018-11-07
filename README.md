@@ -22,6 +22,8 @@ The reason for the implementation of these libraries are that they were required
 Note: It must be in the same directory as the python file.
 
 - References:
-1. "Elements of Cryptanalysis" by William F. Friedman
-2. "Serious Cryptography" by Jean-Philippe Aumasson
-3. Marcus Chong during TA office hours.
+1. https://pypi.org/project/chacha20poly1305/
+2. https://www.ayrx.me/python-aead
+3. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ec/
+4. https://github.com/AntonKueltz/fastecdsa#generating-keys
+5. https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
