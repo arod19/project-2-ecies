@@ -11,6 +11,7 @@ It features elliptic curve public and private key generation and chacha poly alg
 3.6.3
 
 - Libraries used:
+os: This module provides a portable way of using operating system dependent functionality. Generated random nonce in the program.
 argparse: The argparse module makes it easy to write user-friendly command-line interfaces.
 fastecdsa: elliptic curve generation of key pairs.
 chacha20poly1305: use of chacha poly algorithm.
